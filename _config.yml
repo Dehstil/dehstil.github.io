@@ -1,0 +1,4 @@
+name: Rethink
+markdown: redcarpet
+pygments: true
+exclude: ['README.md']
